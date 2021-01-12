@@ -42,4 +42,7 @@ Books read and/or to read
 
 
 #### Long list
-to be added
+|            | Book        | Author      |
+|------------|-------------|-------------|
+| <img src="https://m.media-amazon.com/images/I/51Zuy0g7l+L.jpg" width="100"> |[Start with Why: How Great Leaders Inspire Everyone to Take Action)](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/) | Simon Sinek
+| <img src="https://m.media-amazon.com/images/I/51s11AU4otL.jpg" width="100"> |[No Rules Rules: Netflix and the Culture of Reinvention)](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/B0845Z14DX/) | Reed Hastings & Erin Meyer
