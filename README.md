@@ -55,3 +55,41 @@ Feel free to share your recommendations - Every day learning
 |------------|-------------|-------------|
 | <img src="https://m.media-amazon.com/images/I/51Zuy0g7l+L.jpg" width="100"> |[Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/) | Simon Sinek
 | <img src="https://m.media-amazon.com/images/I/51s11AU4otL.jpg" width="100"> |[No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/B0845Z14DX/) | Reed Hastings & Erin Meyer
+||[Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/)|
+||[You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place](https://www.amazon.com/You-Look-Like-Thing-Love/dp/0316525243/)|
+||[The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.amazon.com/The-Dichotomy-of-Leadership-audiobook/dp/B07BN5NGQ5/)|
+||[The Insider's Guide to Culture Change: Creating a Workplace That Delivers, Grows, and Adapts](https://www.amazon.com/Insiders-Guide-Culture-Change-Workplace/dp/1400214653/)|
+||[Lifescale: How to Live a More Creative, Productive, and Happy Life](https://www.amazon.com/Lifescale-Establish-Rituals-Routines-Achieve/dp/1119535867/)|
+||[Managing Humans: Biting and Humorous Tales of a Software Engineering Manager](https://www.amazon.com/Managing-Humans-Humorous-Software-Engineering/dp/1484221575/)|
+||[The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data ](https://www.amazon.com/The-Unicorn-Project-Gene-Kim-audiobook/dp/B0812C82T9/)|
+||[Talking to Strangers: What We Should Know About the People We Don't Know ](https://www.amazon.com/Talking-to-Strangers-audiobook/dp/B07NJCG1XS/)|
+||[Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG/)|
+||[Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2/)|
+||[Switch: How to Change Things When Change Is Hard ](https://www.amazon.com/Switch-Dan-Heath-Chip-Heath-audiobook/dp/B0038NLX9S/)|
+||[Lean In: Women, Work, and the Will to Lead](https://www.amazon.com/Lean-In-Sheryl-Sandberg-audiobook/dp/B00B3Z5U0G/)|
+||[]()|
+
+
+Others
+* Deep Learning Interviews
+* Amy webb - the big nine
+* Rise of the Robots by Martin Ford
+* The War on Normal People by Andrew Yang
+* Experience Over Degrees by Rishav Khanal 
+* The Sentient Machine by Amir Husain 
+* The Fourth Age by Byron Reese
+* The Act of Creation by Arthur Koestler
+* The Second Machine Age by Erik Brynjolfsson and Andrew McAfee
+* The Singularity is Near by Ray Kurzweil
+* Life 3.0 by Max Tegmark
+* Possible Minds 25 ways of looking at AI by John Brockman
+* A Humans Guide to Machine Intelligence by Kartik Hosangar
+* Interpretable Machine Learning by Christoph Molnar
+* Superintelligence by Nick Bostrom
+* Artificial intelligence revolution by Robin li
+* AI super powers by Kai fu lee
+* The AI economy
+* Intelligent automation 
+* Applied Artificial intelligence 
+* AI road map
+* The future is faster than you think by Peter Diamandis and Steven Kotler
