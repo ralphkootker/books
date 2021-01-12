@@ -71,7 +71,7 @@ Feel free to share your recommendations - Every day learning
 ||[]()|
 
 
-Others
+#### AI related books
 * Deep Learning Interviews
 * Amy webb - the big nine
 * Rise of the Robots by Martin Ford
@@ -94,3 +94,20 @@ Others
 * Applied Artificial intelligence 
 * AI road map
 * The future is faster than you think by Peter Diamandis and Steven Kotler
+
+
+#### Architecture/Tech related books
+* [Technology Strategy Patterns: Architecture as Strategy 1st Edition](https://www.amazon.com/Technology-Strategy-Patterns-Architecture/dp/1492040878/) 
+* [The Software Architect Elevator: Redefining the Architect's Role in the Digital Enterprise](https://www.amazon.com/Software-Architect-Elevator-Redefining-Architects/dp/1492077542/)
+* [The Model Thinker: What You Need to Know to Make Data Work for You](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627/)
+* [Thinking in Systems: A Primer](https://www.amazon.com/Thinking-Systems-Donella-H-Meadows/dp/1603580557/)
+* [Software Systems Architecture](https://www.amazon.com/Software-Systems-Architecture-Rozanki/dp/9332547955/)
+* [Just Enough Software Architecture: A Risk-Driven Approach](https://www.amazon.com/Just-Enough-Software-Architecture-Risk-Driven/dp/0984618104/)
+* [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/)  
+* [Fundamentals of Software Architecture: An Engineering Approach](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451/)  
+* [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/)  
+* [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215/)  
+* [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.com/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/)  
+* [Refactoring: Improving the Design of Existing Code (2nd Edition)](https://www.amazon.com/Refactoring-Improving-Existing-Addison-Wesley-Signature/dp/0134757599/)  
+* [Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions](https://www.amazon.com/Enterprise-Integration-Patterns-Designing-Deploying/dp/0321200683/)  
+* [Enterprise Integration Patterns, Vol 2: Conversation Patterns](https://www.amazon.com/Enterprise-Integration-Patterns-Vol-Conversation/dp/0134699939/)  
