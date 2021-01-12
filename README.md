@@ -1,7 +1,7 @@
 # Introduction
 This page contains an overview of books that I have read and/or are planning to read.
 
-I started to appreciate book (e.g. Audiobooks) since I entered my thirties. It helps me to activate my brain, reflect and develop myself as a human being. The ratings below are my personal ratings, based on how I experienced the book and how relevant it is to my day-to-day life.
+I started to appreciate books (e.g. Audiobooks) since I entered my thirties 😌. It helps me to activate my brain, reflect on past experiences and develop new opportunities. The ratings below are my personal ones, based on how I experienced the book and how relevant it is to my day-to-day life.
 
 # Contribute
 Feel free to share your recommendations - Every day learning
