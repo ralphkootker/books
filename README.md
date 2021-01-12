@@ -68,32 +68,31 @@ Feel free to share your recommendations - Every day learning
 ||[Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2/)|
 ||[Switch: How to Change Things When Change Is Hard ](https://www.amazon.com/Switch-Dan-Heath-Chip-Heath-audiobook/dp/B0038NLX9S/)|
 ||[Lean In: Women, Work, and the Will to Lead](https://www.amazon.com/Lean-In-Sheryl-Sandberg-audiobook/dp/B00B3Z5U0G/)|
-||[]()|
+
 
 
 #### AI related books
-* Deep Learning Interviews
-* Amy webb - the big nine
-* Rise of the Robots by Martin Ford
-* The War on Normal People by Andrew Yang
-* Experience Over Degrees by Rishav Khanal 
-* The Sentient Machine by Amir Husain 
-* The Fourth Age by Byron Reese
-* The Act of Creation by Arthur Koestler
-* The Second Machine Age by Erik Brynjolfsson and Andrew McAfee
-* The Singularity is Near by Ray Kurzweil
-* Life 3.0 by Max Tegmark
-* Possible Minds 25 ways of looking at AI by John Brockman
-* A Humans Guide to Machine Intelligence by Kartik Hosangar
-* Interpretable Machine Learning by Christoph Molnar
-* Superintelligence by Nick Bostrom
-* Artificial intelligence revolution by Robin li
-* AI super powers by Kai fu lee
-* The AI economy
-* Intelligent automation 
-* Applied Artificial intelligence 
-* AI road map
-* The future is faster than you think by Peter Diamandis and Steven Kotler
+* [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI.](https://www.amazon.com/Deep-Learning-Interviews-interview-questions-ebook/dp/B08PL3GVHV/)
+* [The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity](https://www.amazon.com/The-Big-Nine-Amy-Webb-audiobook/dp/B07P5TJGLJ/)
+* [Rise of the Robots: Technology and the Threat of a Jobless Future](https://www.amazon.com/Rise-of-Robots-Martin-Ford-audiobook/dp/B00X4RH7HK/)
+* [The War on Normal People](https://www.amazon.com/The-War-on-Normal-People-Andrew-Yang/dp/B07BSHJ8RB/)
+* [Experience Over Degrees: The Blueprint to Get You the Job Your Degree Doesn’t ](https://www.amazon.com/Experience-Over-Degrees-Blueprint-Degree-ebook/dp/B07L2GNX9P/)
+* [The Sentient Machine: The Coming Age of Artificial Intelligence](https://www.amazon.com/The-Sentient-Machine-Amir-Husain-audiobook/dp/B076MPT8KX/r)
+* [The Fourth Age](https://www.amazon.com/The-Fourth-Age-Byron-Reese-audiobook/dp/B07BR7LVPD/)
+* [The Act of Creation](https://www.amazon.com/Act-Creation-Arthur-Koestler-ebook/dp/B08L4CTRT2/)
+* [The Second Machine Age: Work, Progress, and Prosperity in a Time of Brilliant Technologies](https://www.amazon.com/The-Second-Machine-Age-audiobook/dp/B00HFX8JMQ/)
+* [The Singularity Is Near: When Humans Transcend Biology](https://www.amazon.com/The-Singularity-Is-Near-audiobook/dp/B07XPFT63D/)
+* [Life 3.0: Being Human in the Age of Artificial Intelligence](https://www.amazon.com/Life-30-Max-Tegmark-audiobook/dp/B0742JQF31/)
+* [Possible Minds: Twenty-Five Ways of Looking at AI](https://www.amazon.com/Possible-Minds-audiobook/dp/B07MQX54TW/)
+* [A Human's Guide to Machine Intelligence: How Algorithms Are Shaping Our Lives and How We Can Stay in Control](https://www.amazon.com/Humans-Guide-Machine-Intelligence-Algorithms-ebook/dp/B07DT1HMT3/)
+* [Interpretable Machine Learning](https://www.amazon.com/Interpretable-Machine-Learning-Christoph-Molnar/dp/0244768528/)
+* [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/)
+* [Artificial Intelligence Revolution: How AI Will Change our Society, Economy, and Culture](https://www.amazon.com/Artificial-Intelligence-Revolution-Society-Economy/dp/1510752994/)
+* [AI Superpowers: China, Silicon Valley, and the New World Order](https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF/)
+* [The AI Economy: Work, Wealth and Welfare in the Age of the Robot](https://www.amazon.com/AI-Economy-Wealth-Welfare-Robot/dp/147369616X/)
+* [INTELLIGENT AUTOMATION: Learn how to harness Artificial Intelligence to boost business & make our world more human](https://www.amazon.com/INTELLIGENT-AUTOMATION-Artificial-Intelligence-business/dp/B08KTDVHHQ)
+* [Applied Artificial Intelligence: A Handbook For Business Leaders](https://www.amazon.com/Applied-Artificial-Intelligence-Handbook-Business/dp/0998289027/)
+* [The Future Is Faster Than You Think: How Converging Technologies Are Transforming Business, Industries, and Our Lives (Exponential Technology Series)](https://www.amazon.com/Future-Faster-Than-You-Think/dp/1982109661/r)
 
 
 #### Architecture/Tech related books
