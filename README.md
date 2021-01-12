@@ -4,7 +4,7 @@ This page contains an overview of books that I have read and/or are planning to 
 I started to appreciate book (e.g. Audiobooks) since I entered my thirties. It helps me to activate my brain, reflect and develop myself as a human being. The ratings below are my personal ratings, based on how I experienced the book and how relevant it is to my day-to-day life.
 
 # Contribute
-I'm always open to be inspired with new reading materials. Feel free to send them to: 
+Feel free to share your recommendations - Every day learning
 [Ralph Kootker](mailto:ralph.kootker@gmail.com?subject=[GitHub%20books])
 
 
@@ -22,8 +22,8 @@ I'm always open to be inspired with new reading materials. Feel free to send the
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41Mq7Ss7lPL._SX331_BO1,204,203,200_.jpg" width="100"> |[Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) | Ray Dalio | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51N9XkgX1dL.jpg" width="100"> |[Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-audiobook/dp/B00NHZ6PPE/) | Jeff Sutherland | ⭐⭐⭐⭐⭐
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51bAF5pdyeL._SX332_BO1,204,203,200_.jpg" width="100"> |[The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win)](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/) | Gene Kim | ⭐⭐⭐⭐⭐
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51KVkEDF2KL._SX326_BO1,204,203,200_.jpg" width="100"> |[The 7 Habits of Highly Effective People)](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274/) | Stephen R. Covey | ⭐⭐⭐⭐⭐
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41yDXnkcLgL._SX337_BO1,204,203,200_.jpg" width="100"> |[The Five Dysfunctions of a Team: A Leadership Fable)](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/) | Patrick Lencioni | ⭐⭐⭐⭐⭐
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51KVkEDF2KL._SX326_BO1,204,203,200_.jpg" width="100"> |[The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274/) | Stephen R. Covey | ⭐⭐⭐⭐⭐
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41yDXnkcLgL._SX337_BO1,204,203,200_.jpg" width="100"> |[The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/) | Patrick Lencioni | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51IQzkj0+NL.jpg" width="100"> |[Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future](https://www.amazon.com/Elon-Musk-Ashlee-Vance-audiobook/dp/B00UVY52JO/) | Ashlee Vance | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51XyWW6zEXL.jpg" width="100"> |[Sapiens: A Brief History of Humankind](https://www.amazon.com/Sapiens-Yuval-Noah-Harari-audiobook/dp/B0741F3M7C/) | Yuval Noah Harari  | ⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51EDhEokzbL.jpg" width="100"> |[Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-audiobook/dp/B015TM0RM4/) | Jocko Willink & Leif Babin | ⭐⭐⭐⭐
@@ -53,5 +53,5 @@ I'm always open to be inspired with new reading materials. Feel free to send the
 #### Long list
 |            | Book        | Author      |
 |------------|-------------|-------------|
-| <img src="https://m.media-amazon.com/images/I/51Zuy0g7l+L.jpg" width="100"> |[Start with Why: How Great Leaders Inspire Everyone to Take Action)](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/) | Simon Sinek
-| <img src="https://m.media-amazon.com/images/I/51s11AU4otL.jpg" width="100"> |[No Rules Rules: Netflix and the Culture of Reinvention)](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/B0845Z14DX/) | Reed Hastings & Erin Meyer
+| <img src="https://m.media-amazon.com/images/I/51Zuy0g7l+L.jpg" width="100"> |[Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/) | Simon Sinek
+| <img src="https://m.media-amazon.com/images/I/51s11AU4otL.jpg" width="100"> |[No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/B0845Z14DX/) | Reed Hastings & Erin Meyer
