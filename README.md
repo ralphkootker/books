@@ -38,6 +38,7 @@ Feel free to share your recommendations - Every day learning
 |            | Book        | Author      |
 |------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group)](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan
+| <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
 | <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> |[The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/) | Eliyahu M. Goldratt
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown 
