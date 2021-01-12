@@ -20,7 +20,9 @@ Books read and/or to read
 | <img src="https://m.media-amazon.com/images/I/51EDhEokzbL.jpg" width="100"> |[Extreme Ownership: How U.S. Navy SEALs Lead and Win](https://www.amazon.com/Extreme-Ownership-audiobook/dp/B015TM0RM4/) | Jocko Willink & Leif Babin | ⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/41Jf6jW9IwL.jpg" width="100"> |[Outliers: The Story of Success](https://www.amazon.com/Outliers-Malcolm-Gladwell-audiobook/dp/B001LNK9C4/) | Malcolm Gladwell | ⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51bQnYyvN2L.jpg" width="100"> |[Bounce: Mozart, Federer, Picasso, Beckham, and the Science of Success](https://www.amazon.com/Bounce-Matthew-Syed-audiobook/dp/B003IF3808/) | Matthew Syed | ⭐⭐⭐⭐
+| <img src="https://m.media-amazon.com/images/I/51bGhYfO9KL.jpg" width="100"> |[Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-David-Allen-audiobook/dp/B01B6WSK5C/) | David Allen | ⭐⭐⭐⭐
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51SgxUg809L._SX329_BO1,204,203,200_.jpg" width="100"> |[Why Digital Transformations Fail: The Surprising Disciplines of How to Take Off and Stay Ahead](https://www.amazon.com/Why-Digital-Transformations-Fail-Disciplines/dp/1523085347/) | Tony Saldanha | ⭐⭐⭐
+| <img src="https://m.media-amazon.com/images/I/51K-iHvDHNL.jpg" width="100"> |[Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Robert-B-Cialdini-audiobook/dp/B01KWAPHAK/) | Robert B. Cialdini  | ⭐⭐⭐
 
 ## Reading list
 #### Short list
