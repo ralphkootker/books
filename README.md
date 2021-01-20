@@ -10,14 +10,16 @@ Feel free to share your recommendations - Every day learning
 
 
 ### Contents
-  - [Read books](#read-books)
-  - [Reading list](#reading-list)
+  - [Done](#done)
+  - [In progress](#in-progress)
+  - [Backlog](#backlog)
     - [Short list](#short-list)
     - [Long list](#long-list)
 
-## Read books
+## Done
 |            | Book        | Author      | Rating      |
 |------------|-------------|-------------|-------------|
+| <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group)](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51SGjt9pPlL.jpg" width="100"> |[Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Phil-Knight-audiobook/dp/B01CRJA470/) | Phil Knight | ⭐⭐⭐⭐⭐
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41Mq7Ss7lPL._SX331_BO1,204,203,200_.jpg" width="100"> |[Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) | Ray Dalio | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51N9XkgX1dL.jpg" width="100"> |[Scrum: The Art of Doing Twice the Work in Half the Time](https://www.amazon.com/Scrum-audiobook/dp/B00NHZ6PPE/) | Jeff Sutherland | ⭐⭐⭐⭐⭐
@@ -33,13 +35,16 @@ Feel free to share your recommendations - Every day learning
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51SgxUg809L._SX329_BO1,204,203,200_.jpg" width="100"> |[Why Digital Transformations Fail: The Surprising Disciplines of How to Take Off and Stay Ahead](https://www.amazon.com/Why-Digital-Transformations-Fail-Disciplines/dp/1523085347/) | Tony Saldanha | ⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51K-iHvDHNL.jpg" width="100"> |[Influence: The Psychology of Persuasion](https://www.amazon.com/Influence-Robert-B-Cialdini-audiobook/dp/B01KWAPHAK/) | Robert B. Cialdini  | ⭐⭐⭐
 
-## Reading list
+
+## In Progress
+|            | Book        | Author      |
+|------------|-------------|-------------|
+| <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> |[Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
+## Backlog
 #### Short list
 |            | Book        | Author      |
 |------------|-------------|-------------|
-| <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group)](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan
-| <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> |[Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
 | <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> |[The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/) | Eliyahu M. Goldratt
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown 
 | <img src="https://m.media-amazon.com/images/I/41+fcfGskBL.jpg" width="100"> |[The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture](https://www.amazon.com/The-Messy-Middle-Scott-Belsky-audiobook/dp/B07HFF7BV3/) | Scott Belsky 
