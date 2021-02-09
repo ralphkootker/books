@@ -76,6 +76,11 @@ Feel free to share your recommendations - Every day learning
 
 
 
+#### Product Management related books
+* [Value Proposition Design: How to Create Products and Services Customers Want (The Strategyzer series)](https://www.amazon.com/Value-Proposition-Design-Customers-Strategyzer/dp/1118968050)
+* [Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers (The Strategyzer series)](https://www.amazon.com/Business-Model-Generation-Visionaries-Challengers/dp/0470876417/)
+* [Strategize: Product Strategy and Product Roadmap Practices for the Digital Age](https://www.amazon.com/Strategize-Product-Strategy-Roadmap-Practices-ebook/dp/B01F749SF6/)
+
 #### AI related books
 * [Deep Learning Interviews: Hundreds of fully solved job interview questions from a wide range of key topics in AI.](https://www.amazon.com/Deep-Learning-Interviews-interview-questions-ebook/dp/B08PL3GVHV/)
 * [The Big Nine: How the Tech Titans and Their Thinking Machines Could Warp Humanity](https://www.amazon.com/The-Big-Nine-Amy-Webb-audiobook/dp/B07P5TJGLJ/)
