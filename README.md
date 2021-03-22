@@ -19,6 +19,7 @@ Feel free to share your recommendations - Every day learning
 ## Done
 |            | Book        | Author      | Rating      |
 |------------|-------------|-------------|-------------|
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti | ⭐⭐⭐⭐⭐
 | <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group)](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan | ⭐⭐⭐⭐⭐
 | <img src="https://m.media-amazon.com/images/I/51SGjt9pPlL.jpg" width="100"> |[Shoe Dog: A Memoir by the Creator of Nike](https://www.amazon.com/Shoe-Dog-Phil-Knight-audiobook/dp/B01CRJA470/) | Phil Knight | ⭐⭐⭐⭐⭐
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41Mq7Ss7lPL._SX331_BO1,204,203,200_.jpg" width="100"> |[Principles: Life and Work](https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021) | Ray Dalio | ⭐⭐⭐⭐⭐
@@ -40,7 +41,9 @@ Feel free to share your recommendations - Every day learning
 |            | Book        | Author      |
 |------------|-------------|-------------|
 | <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> |[Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
+| <img src="https://m.media-amazon.com/images/I/415gxAISkiL.jpg" width="100"> |[The Culture Code: The Secrets of Highly Successful Groups)](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B01MSY1Y6Z) | Daniel Coyle
+
+
 ## Backlog
 #### Short list
 |            | Book        | Author      |
