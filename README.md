@@ -42,7 +42,7 @@ Feel free to share your recommendations - Every day learning
 |            | Book        | Author      |
 |------------|-------------|-------------|
 | <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> |[Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51x3xUiAMkL._SX324_BO1,204,203,200_.jpg" width="100"> |[Courage To Be Disliked)](https://www.amazon.com/Courage-Be-Disliked-yourself-happiness/dp/176063073X/) | Fumitake Koga & Ichiro Kishim | [Summary](https://fourminutebooks.com/the-courage-to-be-disliked-summary/)
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51x3xUiAMkL._SX324_BO1,204,203,200_.jpg" width="100"> |[The Courage To Be Disliked](https://www.amazon.com/Courage-Be-Disliked-yourself-happiness/dp/176063073X/) | Fumitake Koga & Ichiro Kishim | [Summary](https://fourminutebooks.com/the-courage-to-be-disliked-summary/)
 
 ## Backlog
 #### Short list
