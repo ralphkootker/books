@@ -19,6 +19,7 @@ Feel free to share your recommendations - Every day learning
 ## Done
 |            | Book        | Author      | Rating      | Summary     |
 |------------|-------------|-------------|-------------|-------------|
+| <img src="https://m.media-amazon.com/images/I/41pBPOfjVNL.jpg" width="100"> |[Inside the Black Box: The Simple Truth About Quantitative Trading](https://www.amazon.com/Inside-Black-Box-Quantitative-Trading/dp/B08BLTR68F/) | Rishi K. Narang | ⭐⭐⭐⭐⭐ | [Summary](https://rkbookreviews.wordpress.com/2011/04/03/inside-the-black-box-summary/)
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51x3xUiAMkL._SX324_BO1,204,203,200_.jpg" width="100"> |[The Courage to Be Disliked: How to Free Yourself, Change Your Life, and Achieve Real Happiness](https://www.amazon.com/Courage-Be-Disliked-yourself-happiness/dp/176063073X/) | Fumitake Koga & Ichiro Kishim | ⭐⭐⭐⭐⭐ | [Summary](https://fourminutebooks.com/the-courage-to-be-disliked-summary/)
 | <img src="https://m.media-amazon.com/images/I/41itqWqkMTL.jpg" width="100"> |[The Talent Code: Greatness Isn't Born. It's Grown. Here's How)](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B01MSY1Y6Z) | Daniel Coyle | ⭐⭐⭐⭐ | [Summary](https://fourminutebooks.com/the-talent-code-summary/)
 | <img src="https://m.media-amazon.com/images/I/415gxAISkiL.jpg" width="100"> |[The Culture Code: The Secrets of Highly Successful Groups)](https://www.amazon.com/Culture-Code-Secrets-Highly-Successful-ebook/dp/B01MSY1Y6Z) | Daniel Coyle | ⭐⭐⭐⭐⭐ | [Summary](https://fourminutebooks.com/the-culture-code-summary/)
@@ -44,7 +45,7 @@ Feel free to share your recommendations - Every day learning
 |            | Book        | Author      |
 |------------|-------------|-------------|
 | <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> |[Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney
-| <img src="https://m.media-amazon.com/images/I/41pBPOfjVNL.jpg" width="100"> |[Inside the Black Box: The Simple Truth About Quantitative Trading](https://www.amazon.com/Inside-Black-Box-Quantitative-Trading/dp/B08BLTR68F/) | Rishi K. Narang | [Summary](https://rkbookreviews.wordpress.com/2011/04/03/inside-the-black-box-summary/)
+| <img src="https://images-na.ssl-images-amazon.com/images/I/517I4AfWPoL._SY291_BO1,204,203,200_QL40_FMwebp_.jpg" width="100"> |[The Culture Map: Decoding How People Think, Lead, and Get Things Done Across Cultures](https://www.amazon.com/Culture-Map-INTL-ED-Decoding/dp/1610392760/) | Erin Meyer | [Summary](https://blog.12min.com/the-culture-map-pdf/), [Summary2](https://www.nsf.gov/attachments/134059/public/15LFW_WorkingWithMulticulturalTeams_LarsonC.pdf)
 
 ## Backlog
 #### Short list
