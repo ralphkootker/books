@@ -57,14 +57,11 @@ Feel free to share your recommendations - Every day learning
 |            | Book        | Author      |
 |------------|-------------|-------------|
 | <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> |[The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/) | Eliyahu M. Goldratt
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown 
 | <img src="https://m.media-amazon.com/images/I/41+fcfGskBL.jpg" width="100"> |[The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture](https://www.amazon.com/The-Messy-Middle-Scott-Belsky-audiobook/dp/B07HFF7BV3/) | Scott Belsky 
 | <img src="https://m.media-amazon.com/images/I/51-zooqOoeL.jpg" width="100"> |[Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/Why-We-Sleep-Matthew-Walker-audiobook/dp/B0752XRB5F/) | Matthew Walker 
 | <img src="https://m.media-amazon.com/images/I/41tCQsn8UGL.jpg" width="100"> |[Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS/) | Jim Collins
 | <img src="https://m.media-amazon.com/images/I/51b8+3LQxhL.jpg" width="100"> |[Business Adventures: Twelve Classic Tales from the World of Wall Street](https://www.amazon.com/Business-Adventures-John-Brooks-audiobook/dp/B00M047J9E/) | John Brooks
-| <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/) | Dale Carnegie
 | <img src="https://m.media-amazon.com/images/I/413iKST80XL.jpg" width="100"> |[Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Malcolm-Gladwell-audiobook/dp/B00097DWY0/) | Malcolm Gladwell
-| <img src="https://m.media-amazon.com/images/I/41osMBtoloL.jpg" width="100"> |[Mythos](https://www.amazon.com/Mythos-Stephen-Fry-audiobook/dp/B07WKRP2F2/) | Stephen Fry
 
 
 #### Long list
