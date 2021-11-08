@@ -8,9 +8,18 @@ remote_branch: gh-pages
 
 theme:
   name: material
+  palette:
+    primary: black
+    accent: deep orange
+  features:
+    - navigation.tabs
+    - navigation.instant
+    - navigation.top
 
 nav:
   - Home: index.md
+  - Backlog: backlog.md
+  - Contribute: contribute.md
 
 markdown_extensions:
   - pymdownx.highlight
@@ -19,6 +28,17 @@ markdown_extensions:
   - pymdownx.snippets
   - pymdownx.tasklist:
       custom_checkbox: true
+  - meta
 
 plugins:
   - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/ralphkootker/
+    - icon: fontawesome/brands/github
+      link: https://github.com/ralphkootker/
+
+extra_css:
+  - stylesheets/extra.css
