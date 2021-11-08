@@ -1,0 +1,24 @@
+site_name: Books
+site_description: "Books read by Ralph Kootker"
+docs_dir: src
+site_dir: dist
+
+remote_name: origin
+remote_branch: gh-pages
+
+theme:
+  name: material
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.superfences
+  - pymdownx.snippets
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+plugins:
+  - search

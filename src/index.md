@@ -5,11 +5,7 @@ This page contains an overview of books that I have read and/or are planning to 
 
 I started to appreciate books (e.g. Audiobooks). It helps me to activate my brain, reflect on past experiences and develop new opportunities. The ratings below are my personal ones, based on how I experienced the book and how relevant it is to my day-to-day life.
 
-## Work in progress
-
-In process of moving towards [https://ralphkootker.github.io/books/](https://ralphkootker.github.io/books/)
-
-## Contribute
+# Contribute
 
 Feel free to share your recommendations - Every day learning
 [Ralph Kootker](mailto:ralph.kootker@gmail.com?subject=[GitHub%20books])
