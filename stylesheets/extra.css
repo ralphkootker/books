@@ -1,0 +1,17 @@
+.md-header__button.md-logo img {
+  width: auto;
+}
+
+.md-typeset blockquote {
+  background: #f6f6f6;
+  color: #333333;
+  padding: 1px 20px;
+  border-left: 0.3rem solid #000000;
+}
+.md-typeset table:not([class]) th {
+  background-color: #4b4b4b;
+  color: #fff;
+}
+.md-typeset table:not([class]) tbody tr:nth-child(even) {
+  background: #f6f6f6;
+}
