@@ -12,9 +12,7 @@ Already purchased
 |                                                                             | Book                                                                                                                                                       | Author              |
 | --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
 | <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> | [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/)                                                     | Eliyahu M. Goldratt |
-| <img src="https://m.media-amazon.com/images/I/41tCQsn8UGL.jpg" width="100"> | [Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS/)            | Jim Collins         |
 | <img src="https://m.media-amazon.com/images/I/51b8+3LQxhL.jpg" width="100"> | [Business Adventures: Twelve Classic Tales from the World of Wall Street](https://www.amazon.com/Business-Adventures-John-Brooks-audiobook/dp/B00M047J9E/) | John Brooks         |
-| <img src="https://m.media-amazon.com/images/I/413iKST80XL.jpg" width="100"> | [Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Malcolm-Gladwell-audiobook/dp/B00097DWY0/)                                    | Malcolm Gladwell    |
 
 ## Long list
 
