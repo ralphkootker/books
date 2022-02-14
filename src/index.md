@@ -5,22 +5,25 @@ hide:
 
 # Introduction
 
-In 2020, I set myself to a **goal** of reading 1 book a month, 12 a year.
-This page contains an overview of books that I have read and/or are planning to read.
-
 I started to appreciate books (e.g. Audio books) ever since. It helps me to activate my brain, reflect on past experiences and to develop new opportunities. The ratings below are my personal ones, based on how I experienced the book and how relevant it is to my day-to-day life.
+
+* In 2020, I set myself to a goal of reading 1 book a month, **12 a year**.
+* In 2021, I was able to listen to **24 books**.
+* For 2022, my goal is to listen to **30 books**.
 
 ## In Progress
 
 |                                                                             | Book                                                                                                                                                                    | Author           |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> | [Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney |
+| <img src="https://m.media-amazon.com/images/I/51d0yhmnXQL.jpg" width="100"> | [Fundamentals of Software Architecture: An Engineering Approach)](https://www.amazon.com/Fundamentals-Software-Architecture-Engineering-Approach/dp/B08X8H15BW/) | Mark Richards, Neal Ford |
 
 ## Done
 
 |                                                                             | Book                                                                                                                                                                                                           | Author                        | Rating     | Summary                                                                                                                                                           | Year read |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| <img src="https://m.media-amazon.com/images/I/41NXi0VlZ8L.jpg" width="100"> | [Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals ](https://www.amazon.com/Skip-Line-Experiments-Surprising-Reaching/dp/B08BWYPPMN/)                             | James Altucher                | ⭐⭐⭐⭐⭐ | [Summary](https://prakashjoshipax.com/skip-the-line-book-summary/)                                                                                                | 2022      |
+| <img src="https://m.media-amazon.com/images/I/51oAbYOrT7L.jpg" width="100"> | [Calling Bullshit: The Art of Skepticism in a Data-Driven World](https://www.amazon.com/Calling-Bullshit-Skepticism-Data-Driven-World/dp/B0876GVJ68/)                             | Carl T. Bergstrom, Jevin D. West                | ⭐⭐⭐⭐ | [Summary](https://www.smartcville.com/blog/2020/11/19/book-review-calling-bullshit-by-carl-bergstrom-and-jevin-west/) | [Video](https://www.youtube.com/watch?v=sAVLGq23UF4)                                                                                                | 2022      |
+| <img src="https://m.media-amazon.com/images/I/41NXi0VlZ8L.jpg" width="100"> | [Skip the Line: The 10,000 Experiments Rule and Other Surprising Advice for Reaching Your Goals](https://www.amazon.com/Skip-Line-Experiments-Surprising-Reaching/dp/B08BWYPPMN/)                             | James Altucher                | ⭐⭐⭐⭐⭐ | [Summary](https://prakashjoshipax.com/skip-the-line-book-summary/)                                                                                                | 2022      |
 | <img src="https://m.media-amazon.com/images/I/51Q-wRs-qQL.jpg" width="100"> | [Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration](https://www.amazon.com/Creativity-Inc-audiobook/dp/B00IPJTQQW/)                                                     | Ed Catmull                    | ⭐⭐⭐⭐⭐ | [Summary](https://brandgenetics.com/human-thinking/creativity-inc-speed-summary/)                                                                                 | 2021      |
 | <img src="https://m.media-amazon.com/images/I/41tCQsn8UGL.jpg" width="100"> | [Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS/)                                                                | Jim Collins                   | ⭐⭐⭐⭐⭐ | [Summary](https://expertprogrammanagement.com/2018/05/good-to-great-collins-summary/)                                                                             | 2021      |
 | <img src="https://m.media-amazon.com/images/I/413iKST80XL.jpg" width="100"> | [Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Malcolm-Gladwell-audiobook/dp/B00097DWY0)                                                                                         | Malcolm Gladwell              | ⭐⭐⭐⭐   | [Summary](hhttps://homework-lab.com/study-tips/blink-malcolm-gladwell-summary/)                                                                                   | 2021      |
