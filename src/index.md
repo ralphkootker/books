@@ -16,6 +16,7 @@ I started to appreciate books (e.g. Audio books) ever since. It helps me to acti
 |                                                                             | Book                                                                                                                                                                    | Author           |
 | --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
 | <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> | [Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney |
+| <img src="https://m.media-amazon.com/images/I/41CEaxSPPVL.jpg" width="100"> | [Surrounded by Idiots: The Four Types of Human Behavior and How to Effectively Communicate with Each in Business (and in Life))](https://www.amazon.com/Surrounded-by-Idiots-audiobook/dp/B07VCV4QMH/) | Thomas Erikson |
 
 ## Done
 
