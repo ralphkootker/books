@@ -5,17 +5,6 @@ hide:
 
 # Backlog
 
-## Short list
-
-Already purchased
-
-|                                                                             | Book                                                                                                                                                       | Author              |
-| --------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
-| <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> | [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/)                                                     | Eliyahu M. Goldratt |
-| <img src="https://m.media-amazon.com/images/I/51b8+3LQxhL.jpg" width="100"> | [Business Adventures: Twelve Classic Tales from the World of Wall Street](https://www.amazon.com/Business-Adventures-John-Brooks-audiobook/dp/B00M047J9E/) | John Brooks         |
-
-## Long list
-
 ### Leadership
 
 - [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/)
