@@ -11,19 +11,13 @@ I started to appreciate books (e.g. Audio books) ever since. It helps me to acti
 * In 2021, I was able to listen to **24 books**.
 * For 2022, my goal is to listen to **30 books**.
 
-## In Progress
-
-|                                                                             | Book                                                                                                                                                                    | Author           |
-| --------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| <img src="https://m.media-amazon.com/images/I/51yQsYZQifL.jpg" width="100"> | [Infonomics: How to Monetize, Manage, and Measure Information as an Asset for Competitive)](https://www.amazon.com/Infonomics-Douglas-B-Laney-audiobook/dp/B076642QK7/) | Douglas B. Laney |
-| <img src="https://m.media-amazon.com/images/I/51Y3bfofVLL.jpg" width="100"> | [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2/) | Chris Voss |
-
-
 
 ## Done
 
 |                                                                             | Book                                                                                                                                                                                                           | Author                        | Rating     | Summary                                                                                                                                                           | Year read |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+| <img src="https://m.media-amazon.com/images/I/81A5jQHA+lL._AC_UY436_FMwebp_QL65_.jpg" width="100"> | [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/B01I29Y344/) | Mark Manson | ⭐⭐⭐⭐⭐ | [Summary](https://jamesclear.com/book-summaries/the-subtle-art-of-not-giving-a-fck) | 2022 |
+| <img src="https://m.media-amazon.com/images/I/51Y3bfofVLL.jpg" width="100"> | [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2/) | Chris Voss | ⭐⭐⭐⭐⭐ | [Summary](https://www.oberlo.com/blog/never-split-the-difference-by-chris-voss-summary) | 2022
 | <img src="https://m.media-amazon.com/images/I/51DI0-9PJWL.jpg" width="100"> | [Rocket Fuel: The One Essential Combination That Will Get You More of What You Want from Your Business ](https://www.amazon.com/Rocket-Fuel-audiobook/dp/B012HJOBRY/) | Gino Wickman | ⭐⭐⭐⭐⭐ | [Summary](https://theprocesshacker.com/blog/rocket-fuel-book-summary/) | 2022 |
 | <img src="https://m.media-amazon.com/images/I/516OBygEerL.jpg" width="100"> | [Leaders Eat Last: Why Some Teams Pull Together and Others Don't ](https://www.amazon.com/Leaders-Eat-Last-Together-Others/dp/B084D1NZGL/) | Simon Sinek | ⭐⭐⭐⭐⭐ | [Summary](https://readingraphics.com/book-summary-leaders-eat-last/) | 2022 |
 | <img src="https://m.media-amazon.com/images/I/51Zuy0g7l+L.jpg" width="100"> | [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/) | Simon Sinek | ⭐⭐⭐⭐ | [Summary](https://edelweissmf.com/Files/Insigths/booksummary/pdf/Book-Summary-Start-with-Why.pdf) | 2022 |

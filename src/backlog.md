@@ -7,8 +7,6 @@ hide:
 
 ### Leadership
 
-- [Start with Why: How Great Leaders Inspire Everyone to Take Action](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/)
-- [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.com/No-Rules-Netflix-Culture-Reinvention/dp/B0845Z14DX/)
 - [Mindset: The New Psychology of Success](https://www.amazon.com/Mindset-Psychology-Carol-S-Dweck/dp/0345472322/)
 - [You Look Like a Thing and I Love You: How Artificial Intelligence Works and Why It's Making the World a Weirder Place](https://www.amazon.com/You-Look-Like-Thing-Love/dp/0316525243/)
 - [The Dichotomy of Leadership: Balancing the Challenges of Extreme Ownership to Lead and Win](https://www.amazon.com/The-Dichotomy-of-Leadership-audiobook/dp/B07BN5NGQ5/)
@@ -18,7 +16,6 @@ hide:
 - [The Unicorn Project: A Novel About Developers, Digital Disruption, and Thriving in the Age of Data ](https://www.amazon.com/The-Unicorn-Project-Gene-Kim-audiobook/dp/B0812C82T9/)
 - [Talking to Strangers: What We Should Know About the People We Don't Know ](https://www.amazon.com/Talking-to-Strangers-audiobook/dp/B07NJCG1XS/)
 - [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG/)
-- [Never Split the Difference: Negotiating as if Your Life Depended on It](https://www.amazon.com/Never-Split-Difference-audiobook/dp/B01COR1GM2/)
 - [Switch: How to Change Things When Change Is Hard ](https://www.amazon.com/Switch-Dan-Heath-Chip-Heath-audiobook/dp/B0038NLX9S/)
 - [Lean In: Women, Work, and the Will to Lead](https://www.amazon.com/Lean-In-Sheryl-Sandberg-audiobook/dp/B00B3Z5U0G/)
 
